@@ -1,0 +1,10 @@
+.btn-action {
+  padding: 4px 8px; /* Botão menor */
+  font-size: 12px; /* Tamanho de fonte menor */
+  background-color: #f8f9fa; /* Cor neutra */
+  border: 1px solid #ced4da; /* Borda neutra */
+}
+
+.btn-action:hover {
+  background-color: #e2e6ea; /* Efeito de hover */
+}
